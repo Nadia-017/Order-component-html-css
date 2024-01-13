@@ -1,0 +1,126 @@
+
+.additional-box {
+    position: relative;
+    border-radius: 12px;
+    width: 270px;
+    height: 400px;
+    background-color: white;
+    left: 50%;
+    transform: translate(-50%, 20%);
+}
+
+.box {
+    position: relative;
+    font-family: Red Hat Display, sans-serif;
+    src: url(https://fonts.google.com/specimen/Red+Hat+Display);
+  }
+
+.os {
+    position: relative;
+    font-size: 16px; 
+    text-align: center;
+    font-weight: bold;
+    top: -14cap;
+    color: #000;
+}
+
+.order {
+    position: relative;
+    font-size: 11px; 
+    text-align: center;
+    color: hsl(224, 23%, 55%);
+    top: -22cap;
+}
+
+.attribution {
+    position: relative;
+    font-size: 11px; 
+    text-align: center; 
+    color: hsl(228, 45%, 44%);
+    top: 20cap;  
+}
+
+.img {
+    width: 270px;
+    height: 130px;
+    border-radius: 12px 12px 0% 0%;
+    position: absolute;
+    top: 24%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+  .ap {
+    position: relative;
+    font-weight: 550;
+    color: #000;
+    left: -10%;
+    top: 2cap;
+  }
+
+  .price {
+    position: relative;
+    text-align: center;
+    left: -13%;
+    top: 2.5cap;
+    font-size: 10px;
+  }
+
+  .ap-price {
+    position: relative;
+    border-radius: 12px;
+    width: 230px;
+    height: 60px;
+    background-color: hsl(225, 100%, 98%);
+    left: 50%;
+    transform: translate(-50%, 20%);
+    top: 1cap;
+  }
+
+  .Change {
+    position: relative;
+    text-align: center;
+    left: 68%;
+    color: blueviolet;
+    font-weight: 550;
+    top: -3.5cap;
+    font-size: 10px;
+    border: none;
+    background-color: hsl(225, 100%, 98%);
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+
+  .ic {
+    position: relative;
+    width: 30px;
+    height: 30px;
+    top: -1.5cap;
+    left: -86px;
+  }
+
+  .button {
+    position: relative;
+    width: 200px;
+    height: 30px;
+    top: 5cap;
+    left: -10%;
+    font-size: 10px;
+    background-color: hsl(245, 75%, 52%);
+    color: aliceblue;
+    font-weight: bold;
+    border-radius: 5px;
+    border: none;
+    box-shadow: 10px 10px 15px -10px hsl(245, 75%, 52%);
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    }
+
+  .cancel {
+    top: 7cap;
+    position: relative;
+    font-weight: bold;
+    color: #000;
+    font-size: 10px;
+  }
+  
